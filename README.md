@@ -1,4 +1,4 @@
-# Syntecxhub_Movie-Recommendation-System
+# Movie-Recommendation-System
 Project 1 - Week 4
 # 🎬 CineMatch — Movie Recommendation System
 
